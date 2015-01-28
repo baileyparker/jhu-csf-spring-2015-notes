@@ -62,8 +62,8 @@ $f: B \mapsto B$
 
 | Name  |            ANSI Symbol             |       IEC (European) Symbol      |                          Behavior                           |
 |-------|------------------------------------|----------------------------------|-------------------------------------------------------------|
-| NAND  | ![ANSI NAND Symbol](ansi_nand.gif) | ![IEC NAND Symbol](iec_nand.png) | Outputs `false` if both inputs are `true`, `true` otherwise |
-|  NOR  |  ![ANSI NOR Symbol](ansi_nor.gif)  |  ![IEC NOR Symbol](iec_or.png)  | Outputs `false` if either input is `true`, `true` otherwise |
+| NAND  | ![ANSI NAND Symbol](ansi_nand.png) | ![IEC NAND Symbol](iec_nand.png) | Outputs `false` if both inputs are `true`, `true` otherwise |
+|  NOR  |  ![ANSI NOR Symbol](ansi_nor.png)  |  ![IEC NOR Symbol](iec_or.png)  | Outputs `false` if either input is `true`, `true` otherwise |
 
 ### NAND
 
